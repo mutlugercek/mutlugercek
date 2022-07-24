@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mutlugercek
-- 👀 I’m interested in leanr front and back-end
+- 👀 I’m interested in learn front and back-end
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on technologies in the front and back-end
 - 📫 You can reach me with smutlugercek@gmail.com
